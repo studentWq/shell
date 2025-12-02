@@ -17,7 +17,7 @@ if (isset($_POST['password'])) {
 if (!$_SESSION['loggedIn']): ?>
 
 <html><head><title>Login Administrator</title></head>
-  <body bgcolor="black">
+  <body bgcolor="white">
     <center>
     <p align="center"><center><font style="font-size:13px" color="red" face="text-dark">
     <form method="post">
